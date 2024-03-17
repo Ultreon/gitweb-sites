@@ -1,1 +1,24 @@
-contact @jab125 or @xypercode on discord.
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&f&lSubmit Website
+#navigation
+item-link-1=welcome.official
+item-label-1=Home
+item-icon-1=HOME
+item-link-2=welcome.official/websites
+item-label-2=Official Index
+item-icon-2=CONTACTS
+item-link-3=submit.official
+item-label-3=Submit Website
+item-icon-3=EDIT
+item-link-4=welcome.official/report
+item-label-4=Report
+item-icon-4=ERROR
+#paragraph
+text=In order to submit your website to &e&lGitWeb&r for everyone to see, you must submit a pull request to the &e&lGitWeb Sites&r repository.\n If you do not know how to do so, send a DM to &a@xypercode&r or &a@jab125&r on Discord to get started!
+padding=10
+
+#footer
+title=GitWeb
+sub-title=Copyright (c) Ultreon Team (2024)
+home-page=welcome.official
