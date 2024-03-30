@@ -28,7 +28,7 @@ padding=10
 
 #paragraph
 padding=10
-text=&cNone are currently available
+text=&c(Requires Devices Mod 0.8.3 or higher to open)\nMineChromatic - &eminechromatic.id
 
 #header
 text=&f&lAvailable Test Websites
